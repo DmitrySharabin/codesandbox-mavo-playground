@@ -1,0 +1,31 @@
+{
+  "name": "mavo-playground",
+  "version": "0.0.29",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitrySharabin/mavo-playground.git"
+  },
+  "author": "Dmitry Sharabin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitrySharabin/mavo-playground/issues"
+  },
+  "homepage": "http://mavo.io",
+  "private": true,
+  "keywords": [
+    "css",
+    "mavo",
+    "html5"
+  ],
+  "description": null,
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
