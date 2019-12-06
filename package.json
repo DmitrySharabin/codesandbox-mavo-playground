@@ -1,5 +1,5 @@
 {
-  "name": "codesandbox-mavo-playground",
+  "name": "mavo-playground",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -12,6 +12,6 @@
   },
   "homepage": "http://mavo.io",
   "private": true,
-  "keywords": ["css", "mavo", "html5"],
-  "description": "Mavo Playground. Mavo is a new, approachable way to create complex, reactive, persistent web applications by just writing HTML & CSS, without a single line of JavaScript and no server backend."
+  "keywords": [],
+  "description": "Mavo is a new, approachable way to create complex, reactive, persistent web applications by just writing HTML & CSS, without a single line of JavaScript and no server backend."
 }
